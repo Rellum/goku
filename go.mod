@@ -1,4 +1,4 @@
-module github.com/corverroos/goku
+module github.com/Rellum/goku
 
 go 1.15
 

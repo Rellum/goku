@@ -3,10 +3,10 @@ package db
 import (
 	"database/sql"
 
-	"github.com/corverroos/goku"
+	"github.com/Rellum/goku"
 )
 
-//go:generate glean -table=data --err_no_rows=github.com/corverroos/goku.ErrNotFound -scan -raw
+//go:generate glean -table=data --err_no_rows=github.com/Rellum/goku.ErrNotFound -scan -raw
 
 type glean struct {
 	goku.KV

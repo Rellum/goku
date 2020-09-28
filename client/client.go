@@ -5,8 +5,8 @@ import (
 	"io"
 	"time"
 
-	"github.com/corverroos/goku"
-	pb "github.com/corverroos/goku/gokupb"
+	"github.com/Rellum/goku"
+	pb "github.com/Rellum/goku/gokupb"
 	"github.com/golang/protobuf/ptypes"
 	"github.com/luno/jettison/errors"
 	"github.com/luno/reflex"

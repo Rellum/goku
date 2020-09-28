@@ -1,6 +1,6 @@
 package gokupb
 
-import "github.com/corverroos/goku"
+import "github.com/Rellum/goku"
 
 func FromProto(in *KV) goku.KV {
 	return goku.KV{

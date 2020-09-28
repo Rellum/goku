@@ -8,8 +8,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/corverroos/goku"
-	"github.com/corverroos/goku/db"
+	"github.com/Rellum/goku"
+	"github.com/Rellum/goku/db"
 	"github.com/luno/jettison/jtest"
 	"github.com/luno/reflex"
 	"github.com/stretchr/testify/require"

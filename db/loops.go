@@ -6,7 +6,7 @@ import (
 	"sort"
 	"time"
 
-	"github.com/corverroos/goku"
+	"github.com/Rellum/goku"
 	"github.com/luno/jettison/errors"
 	"github.com/luno/jettison/log"
 )

@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/corverroos/goku"
+	"github.com/Rellum/goku"
 	"github.com/go-sql-driver/mysql"
 	"github.com/luno/jettison/errors"
 	"github.com/luno/reflex"

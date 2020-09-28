@@ -6,8 +6,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/corverroos/goku"
-	"github.com/corverroos/goku/db"
+	"github.com/Rellum/goku"
+	"github.com/Rellum/goku/db"
 	"github.com/luno/reflex"
 )
 

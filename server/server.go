@@ -5,9 +5,9 @@ import (
 	"database/sql"
 	"strings"
 
-	"github.com/corverroos/goku"
-	"github.com/corverroos/goku/db"
-	pb "github.com/corverroos/goku/gokupb"
+	"github.com/Rellum/goku"
+	"github.com/Rellum/goku/db"
+	pb "github.com/Rellum/goku/gokupb"
 	"github.com/golang/protobuf/ptypes"
 	"github.com/luno/reflex"
 )
